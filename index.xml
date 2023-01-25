@@ -1,95 +1,20 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>o leg1on4rio</title>
+    <title></title>
     <link>https://leg1on4rio.github.io/</link>
-    <description>Recent content on o leg1on4rio</description>
+    <description>Recent content on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-br</language>
-    <lastBuildDate>Wed, 28 Dec 2022 03:08:31 -0300</lastBuildDate><atom:link href="https://leg1on4rio.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 25 Jan 2023 00:28:05 -0300</lastBuildDate><atom:link href="https://leg1on4rio.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Meu Segundo Post</title>
-      <link>https://leg1on4rio.github.io/meu-segundo-post/</link>
-      <pubDate>Wed, 28 Dec 2022 03:08:31 -0300</pubDate>
+      <title>Novo Tema Vox</title>
+      <link>https://leg1on4rio.github.io/novo-tema-vox/</link>
+      <pubDate>Wed, 25 Jan 2023 00:28:05 -0300</pubDate>
       
-      <guid>https://leg1on4rio.github.io/meu-segundo-post/</guid>
-      <description>Titulo lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum
-sh #include &amp;lt;iostrem&amp;gt; int main( int argc, char ** argv ){ std::cout &amp;lt;&amp;lt; &amp;#34;Meu código\n&amp;#34; return 0; } lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum</description>
-    </item>
-    
-    <item>
-      <title>Meu Primeiro Post</title>
-      <link>https://leg1on4rio.github.io/meu-primeiro-post/</link>
-      <pubDate>Wed, 28 Dec 2022 02:33:34 -0300</pubDate>
-      
-      <guid>https://leg1on4rio.github.io/meu-primeiro-post/</guid>
-      <description>lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum sh teste de algo lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum</description>
-    </item>
-    
-    <item>
-      <title>2022-09-02</title>
-      <link>https://leg1on4rio.github.io/note/note2/</link>
-      <pubDate>Fri, 02 Sep 2022 10:22:14 +0800</pubDate>
-      
-      <guid>https://leg1on4rio.github.io/note/note2/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>2022-09-01</title>
-      <link>https://leg1on4rio.github.io/note/note1/</link>
-      <pubDate>Thu, 01 Sep 2022 10:21:27 +0800</pubDate>
-      
-      <guid>https://leg1on4rio.github.io/note/note1/</guid>
-      <description>Note</description>
-    </item>
-    
-    <item>
-      <title>My Project</title>
-      <link>https://leg1on4rio.github.io/projects/project1/</link>
-      <pubDate>Thu, 01 Sep 2022 10:17:19 +0800</pubDate>
-      
-      <guid>https://leg1on4rio.github.io/projects/project1/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>My Project</title>
-      <link>https://leg1on4rio.github.io/projects/project2/</link>
-      <pubDate>Thu, 01 Sep 2022 10:17:19 +0800</pubDate>
-      
-      <guid>https://leg1on4rio.github.io/projects/project2/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>My Project</title>
-      <link>https://leg1on4rio.github.io/projects/project3/</link>
-      <pubDate>Thu, 01 Sep 2022 10:17:19 +0800</pubDate>
-      
-      <guid>https://leg1on4rio.github.io/projects/project3/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Test blog</title>
-      <link>https://leg1on4rio.github.io/post/post1/</link>
-      <pubDate>Thu, 01 Sep 2022 10:17:19 +0800</pubDate>
-      
-      <guid>https://leg1on4rio.github.io/post/post1/</guid>
-      <description>H2 H3 fsdf lsdjl jggj fjdggj lkrjerg iergrdg;serigjerogjoiergj oeri;jg er;oi greoigj er; gj;erog erjg oer ger;eorgj er
-Code html &amp;lt;!doctype html&amp;gt; &amp;lt;html lang=&amp;#34;en&amp;#34;&amp;gt; &amp;lt;head&amp;gt; &amp;lt;meta charset=&amp;#34;utf-8&amp;#34;&amp;gt; &amp;lt;title&amp;gt;Example HTML5 Document&amp;lt;/title&amp;gt; &amp;lt;/head&amp;gt; &amp;lt;body&amp;gt; &amp;lt;p&amp;gt;Test&amp;lt;/p&amp;gt; &amp;lt;/body&amp;gt; &amp;lt;/html&amp;gt; Blockquote flkdsjfg wp gherog oreig dfngserg oie gdfgnreo ghreog ngkjfdsgeroghg jfdlgfd gfdogeroig fgnreog herognb,bnd;glaergh gnlds;gerter tgndflgnerghowtsd,gmnxbvbnkjdrgheroigbmndfljgnerog regdfgkndfl dfigj erg wgnfgdfnghwoatweggnsdflgjewpgjw epdgnflg egwejpg gnsdgnweoigfngjbdlkgosgpweotsngdfjgn wgjw eg
-H2 Table ABC EDF GHI 123 456 789 List fruit apple banana meat beef chicken Math $$ c = \sqrt{a^{2}+b_{xy}^{2}+e^{x}} $$</description>
-    </item>
-    
-    <item>
-      <title>About</title>
-      <link>https://leg1on4rio.github.io/about/</link>
-      <pubDate>Thu, 11 Aug 2022 10:24:26 +0800</pubDate>
-      
-      <guid>https://leg1on4rio.github.io/about/</guid>
-      <description>Github: jyygithub
-OneLou: https://github.com/jyygithub/hugo-theme-onelou</description>
+      <guid>https://leg1on4rio.github.io/novo-tema-vox/</guid>
+      <description>Titulo ASD lorem ipsum lsdorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipasdsum lasdorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum
+#include &amp;lt;iostrem&amp;gt; int main( int argc, char ** argv ){ std::cout &amp;lt;&amp;lt; &amp;#34;Meu código\n&amp;#34; return 0; } lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum</description>
     </item>
     
   </channel>

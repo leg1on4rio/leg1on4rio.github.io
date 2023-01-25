@@ -1,29 +1,20 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on o leg1on4rio</title>
+    <title>Posts on </title>
     <link>https://leg1on4rio.github.io/posts/</link>
-    <description>Recent content in Posts on o leg1on4rio</description>
+    <description>Recent content in Posts on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-br</language>
-    <lastBuildDate>Wed, 28 Dec 2022 03:08:31 -0300</lastBuildDate><atom:link href="https://leg1on4rio.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 25 Jan 2023 00:28:05 -0300</lastBuildDate><atom:link href="https://leg1on4rio.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Meu Segundo Post</title>
-      <link>https://leg1on4rio.github.io/meu-segundo-post/</link>
-      <pubDate>Wed, 28 Dec 2022 03:08:31 -0300</pubDate>
+      <title>Novo Tema Vox</title>
+      <link>https://leg1on4rio.github.io/novo-tema-vox/</link>
+      <pubDate>Wed, 25 Jan 2023 00:28:05 -0300</pubDate>
       
-      <guid>https://leg1on4rio.github.io/meu-segundo-post/</guid>
-      <description>Titulo lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum
-sh #include &amp;lt;iostrem&amp;gt; int main( int argc, char ** argv ){ std::cout &amp;lt;&amp;lt; &amp;#34;Meu código\n&amp;#34; return 0; } lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum</description>
-    </item>
-    
-    <item>
-      <title>Meu Primeiro Post</title>
-      <link>https://leg1on4rio.github.io/meu-primeiro-post/</link>
-      <pubDate>Wed, 28 Dec 2022 02:33:34 -0300</pubDate>
-      
-      <guid>https://leg1on4rio.github.io/meu-primeiro-post/</guid>
-      <description>lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum sh teste de algo lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum</description>
+      <guid>https://leg1on4rio.github.io/novo-tema-vox/</guid>
+      <description>Titulo ASD lorem ipsum lsdorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipasdsum lasdorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum
+#include &amp;lt;iostrem&amp;gt; int main( int argc, char ** argv ){ std::cout &amp;lt;&amp;lt; &amp;#34;Meu código\n&amp;#34; return 0; } lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum</description>
     </item>
     
   </channel>
