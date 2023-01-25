@@ -6,7 +6,17 @@
     <description>Recent content on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-br</language>
-    <lastBuildDate>Wed, 25 Jan 2023 00:28:05 -0300</lastBuildDate><atom:link href="https://leg1on4rio.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 25 Jan 2023 00:58:38 -0300</lastBuildDate><atom:link href="https://leg1on4rio.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Meu Segundo Novo Post</title>
+      <link>https://leg1on4rio.github.io/meu-segundo-novo-post/</link>
+      <pubDate>Wed, 25 Jan 2023 00:58:38 -0300</pubDate>
+      
+      <guid>https://leg1on4rio.github.io/meu-segundo-novo-post/</guid>
+      <description>Titulo 111111111111111111111111111111111ASD lorem ipsum lsdorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipasdsum lasdorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum
+#include &amp;lt;iostrem&amp;gt; int main( int argc, char ** argv ){ std::cout &amp;lt;&amp;lt; &amp;#34;Meu código\n&amp;#34; return 0; } lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum</description>
+    </item>
+    
     <item>
       <title>Novo Tema Vox</title>
       <link>https://leg1on4rio.github.io/novo-tema-vox/</link>
